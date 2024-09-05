@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "",
+  output: "export",
+  basePath: "Task1",
 };
 
 export default nextConfig;
